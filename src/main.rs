@@ -9,10 +9,10 @@ fn main() {
   let args: Vec<String> = env::args().collect();
 
   if args.len() == 1 {
-      println!("Usage: xo m [n...]");
+      println!("Usage: pwat m [n...]");
       println!("Prints bits of a password at the given 1-based indices.");
       println!("");
-      println!("example: xo 2 5 8");
+      println!("example: pwat 2 5 8");
       println!("         (typing in 'hallowelt')");
       println!(" result: lwt");
   } else {
