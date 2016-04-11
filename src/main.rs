@@ -22,7 +22,9 @@ fn main() {
 
       for s in args {
           for n in s.parse::<u32>() {
-              print!("{}", password.chars().nth(n as usize).unwrap());
+              for c in password.chars().nth(n as usize - 1) {
+                  print!("{}", c);
+              }
           }
       }
       println!("");
