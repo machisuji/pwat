@@ -1,0 +1,10 @@
+[package]
+
+name = "pwat"
+description = "The bank asks you for the Lth, Mth and Nth letters of your password? Use pwat."
+version = "0.0.1"
+authors = [ "Markus Kahl <machisuji@gmail.com>" ]
+
+[dependencies]
+rpassword = "0.0.4"
+
