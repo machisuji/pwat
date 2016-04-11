@@ -2,8 +2,11 @@
 
 name = "pwat"
 description = "The bank asks you for the Lth, Mth and Nth letters of your password? Use pwat."
-version = "0.0.1"
+version = "0.1.0"
 authors = [ "Markus Kahl <machisuji@gmail.com>" ]
+license = "MIT"
+homepage = "https://github.com/machisuji/pwat"
+readme = "README.md"
 
 [dependencies]
 rpassword = "0.0.4"
