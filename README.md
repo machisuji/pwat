@@ -1,5 +1,7 @@
 # pwat
 
+![travis ci](https://travis-ci.org/machisuji/pwat.svg?branch=master)
+
 Prints bits of a password at the given 1-based indices.
 
 ## Example
