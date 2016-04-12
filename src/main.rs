@@ -14,7 +14,7 @@ fn main() {
       println!("");
       println!("example: pwat 2 5 8");
       println!("         (typing in 'hallowelt')");
-      println!(" result: lwt");
+      println!(" result: aol");
   } else {
       print!("Enter password: ");
       stdout().flush();
