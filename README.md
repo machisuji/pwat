@@ -9,7 +9,7 @@ Prints bits of a password at the given 1-based indices.
 ```
 > pwat 2 5 8
 Enter password: hallowelt
-lwt
+aol
 ```
 
 The password not being displayed of course.
